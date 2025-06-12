@@ -1,0 +1,13 @@
+streamlit
+langchain-openai
+streamlit-extras
+langdetect
+pillow
+pytesseract
+PyMuPDF
+python-docx
+pandas
+SpeechRecognition
+mysql-connector-python
+audio-recorder-streamlit
+gTTS

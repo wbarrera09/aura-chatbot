@@ -1,0 +1,19 @@
+# Ignora configuraciones locales de Streamlit
+.streamlit/secrets.toml
+
+# Ignora caché de Python y archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignora archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignora archivos de entorno virtual si tienes uno
+env/
+venv/
+.venv/
